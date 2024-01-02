@@ -89,7 +89,7 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
-![WhatsApp Image 2023-12-28 at 15 58 41](https://github.com/Sanjaichitra/mobilerobot-openloopcontrol/assets/144870518/c10bc3c2-55e0-4bb9-984d-66920b04c3b6)
+![1](https://github.com/HariharanJayavel/mobilerobot-openloopcontrol/assets/144870546/b601bcc5-fe31-4c0d-b3cf-74435d1279d3)
 ![WhatsApp Image 2023-12-28 at 15 58 41 (1)](https://github.com/Sanjaichitra/mobilerobot-openloopcontrol/assets/144870518/8415140d-cb90-4715-9403-05f243910593)
 ![WhatsApp Image 2023-12-28 at 15 58 41 (2)](https://github.com/Sanjaichitra/mobilerobot-openloopcontrol/assets/144870518/aecd082e-a5ff-425b-a52b-cb58d0ad489f)
 
